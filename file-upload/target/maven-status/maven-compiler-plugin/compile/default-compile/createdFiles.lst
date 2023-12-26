@@ -1,0 +1,6 @@
+com\shweta\fileupload\repository\FileRepository.class
+com\shweta\fileupload\service\FileServiceImpl.class
+com\shweta\fileupload\FileUploadApplication.class
+com\shweta\fileupload\entity\File.class
+com\shweta\fileupload\controller\FileController.class
+com\shweta\fileupload\service\FileService.class
